@@ -5,6 +5,7 @@
     <style>
         body {
             font-family: Georgia, serif;
+            color: #8C7A69;
             margin: 0;
             padding: 0;
             background-color: #D9C6B0;
@@ -22,10 +23,12 @@
         }
         .content-title {
             font-size: 24px;
+            color: #59463B;
             margin-top: 10px;
         }
         .main-content {
             font-size: 16px;
+            color: #59463B;
             line-height: 1.5;
             margin-top: 20px;
         }
@@ -42,11 +45,6 @@
             id congue nisl risus id nunc. Vivamus nec dolor at ligula efficitur convallis.
             Donec et sapien vel quam bibendum mattis. Proin euismod ex vel semper.
         </p>
-         </div><!--end content-->
-            
-    </div><!--end main container--> 
-</div><!--end main-->
-
-	</body>
-
+    </div>
+</body>
 </html>

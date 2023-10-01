@@ -40,10 +40,17 @@
         <img src="https://www.nihhs.go.kr/usr/image/content/personal/wjc/wjc_photo.gif" alt="Profile_Image" class="profile-image">
         <h2 class="content-title">Jang-choon Woo</h2>
         <p class="main-content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Vestibulum euismod, quam ac fringilla consectetur, velit dui feugiat quam, 
-            id congue nisl risus id nunc. Vivamus nec dolor at ligula efficitur convallis.
-            Donec et sapien vel quam bibendum mattis. Proin euismod ex vel semper.
+            Jang-chun Woo is a <b>scientist and botanist representing Korea, a first-generation agricultural technologist</b> whose father was Korean, and his mother was Japanese. His father is known to be a Korean who participated in the Eulmi Incident and fled to Japan. Ironically, it was his family who came to Japan for a better life, but Dr. Woo had to fight extreme poverty, abuse and discrimination because half of them were Koreans. Undaunted by such discrimination, he devoted himself to breeding research, including higher education in Gure, Hiroshima Prefecture, Japan, and joining the Agriculture Department at Tokyo Imperial University in 1916, getting a job at the Agricultural Testing Center in Japan upon graduation in 1919, and publishing more than 20 papers on breeding for 18 years until his retirement in 1937. In particular, in 1936, a doctoral thesis (synthesization of species) published by attempting a genomic analysis of plants in the genus Brassica caused global repercussions, and supplemented Darwin's theory of evolution that "species are established as a result of natural selection."
+        </p>
+        <p class="main-content">
+            There is an empty space in Dr.Woo's activities until he returns to Korea. The situation in Korea, which just achieved independence, was unstable because it judged that it was only to pay off the sins of its father, who was stigmatized reversely. Under these circumstances, Dr.Woo was able to return home because he judged that there was no suitable person to raise the agriculture of a newly independent country. President Rhee Syng-man also offered Woo Jang-chun the post of agriculture minister, but he did not accept it. Only breeding business and reverse training were his goals of returning home alone, leaving his family in Japan. At its core was 'seed independence'. During the Japanese colonial era, only rice and barley had to be cultivated forcibly, and Korea's land was devastated through the Japanese colonial period and the Korean War. As a result, the capital and technology of the seedling industry fell significantly, and the number of starvation continued due to the high poverty rate, leading to food shortages.  It was also a high situation. Above all, I had to import cabbage and radish seeds from Japan to make kimchi. In order to improve this reality, Dr.Woo has promoted the importance of breeding, while collecting seeds from domestic traditional species and imported varieties to improve it.
+        </p>
+        <p class="main-content">
+           From 1950 to 1959, when he died, he served as the head of the Korea Agricultural Science Institute, the head of the Central Horticultural Technology Institute, and the head of the horticultural testing center. In particular, he made it possible to self-sufficient vegetable seeds that relied on Japan in Korea and made efforts to develop Korean breeding and horticulture. There are many other achievements he has made. He improved the potato varieties in Gangwon-do, which were vulnerable to insect damage, replacing barons that were commonly grown in Japan, and recommended cosmos cultivation to beautify the streets. In recognition of these achievements, on August 9, 1959, he received a cultural representation from the Korean government and is today recognized as a science and technology merit of Korea.
+        </p>
+        <h2 class="content-title">Journal List</h2>
+        <p class="main-content">
+            Nagaharu, U. (1935) Genome Analysis in Brassica with Special Reference to the Experimental Formation of B. Napus and Peculiar Mode of Fertilization. Japanese Journal of Botany, 7, 389-452.
         </p>
     </div>
 </body>

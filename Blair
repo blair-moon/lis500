@@ -1,29 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
-<meta charset="UTF-8">
-      <title>Tech Hero</title>
-      <link href="style.css" rel="stylesheet" type="text/css" media="screen"/>
-          <div id="main">
-                    <div id="header">
-                         <div id="logo">
-                               <a href="file:///Users/moon/Downloads/EDUCATION/WISC/23%20Fall/LIS%20500/Assignments/Assignment%202/TechHeroWebsite/index.html">
-                                   <h1>Tech Hero</h1>
-                              </a>
-                         </div>
-                         <div id="tagline">
-                              <h3>LIS 500: Code and Power</h3>
-                         </div>
-                           <ol id="menu">
-                               <li> <a href="file:///Users/moon/Downloads/EDUCATION/WISC/23%20Fall/LIS%20500/Assignments/Assignment%202/TechHeroWebsite/My%20Tech%20Hero/MyTechHero.html">My Tech Hero</a></li>
-                    </ol>
-                    <div style="clear:both"></div>
-               </div><!--end header -->
-    
-         <div id="content">
-          <div>
-               <h2>About Me</h2>
-               <h3> Blair Moon </h3>
-               <p>Hello, my name is Blair majoring in <b>Information Science.</b> I have worked in mass media fields as an intern editor, and I have experience running social media accounts for the department. I am not currently working for a specific company, but I have been building on a personal photography portfolio consistently. I am aiming to become a data journalism specialist, but I also have a willingness to advance into fields related to photography and media. Lately, I have been geeking out over analog films and camcorders, trying to keep up with the trend of newtro. It is fascinating how digital and analog can team up and create something awesome together.</p>
+<html>
+<head>
+    <title>Tech Hero</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            margin: 0;
+            padding: 0;
+            background-color: #D9C6B0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: #F6F1EA;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-image {
+            max-width: 160px;
+            border-radius: 50%;
+        }
+        .content-title {
+            font-size: 24px;
+            margin-top: 10px;
+        }
+        .main-content {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Blair's Tech Hero</h1>
+        <img src="https://www.nihhs.go.kr/usr/image/content/personal/wjc/wjc_photo.gif" alt="Profile_Image" class="profile-image">
+        <h2 class="content-title">Jang-choon Woo</h2>
+        <p class="main-content">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Vestibulum euismod, quam ac fringilla consectetur, velit dui feugiat quam, 
+            id congue nisl risus id nunc. Vivamus nec dolor at ligula efficitur convallis.
+            Donec et sapien vel quam bibendum mattis. Proin euismod ex vel semper.
+        </p>
          </div><!--end content-->
             
     </div><!--end main container--> 
